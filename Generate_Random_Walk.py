@@ -4,7 +4,6 @@ import random
 tim = t.Turtle()
 t.colormode(255)
 
-#color functior
 
 def random_color():
     r = random.randint(0, 255)
